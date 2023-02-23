@@ -6,7 +6,7 @@ time.sleep(2)
 Validated = False
 
 while Validated == False:
-    Gender = input ("Are you a woman \n")
+    Gender = input ("Are you a woman \n").lower()
     if Gender == "yes" or Gender == "i'm non binary" or Gender == "im non binary" or Gender == "im non-binary":
         print ("kys")
         Validated = True
@@ -19,7 +19,7 @@ time.sleep(2)
 Validated = False
 
 while Validated == False:
-    Height = input ("How tall are you in cm \n")
+    Height = input ("How tall are you in cm \n").lower()
     try:
         Height = int(Height)
         Validated = True
@@ -41,7 +41,7 @@ time.sleep(2)
 Validated = False
 
 while Validated == False:
-    Age = input("How old are you \n")
+    Age = input("How old are you \n").lower()
     try:
         Age = int(Age)
         Validated = True
