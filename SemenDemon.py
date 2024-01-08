@@ -98,7 +98,7 @@ while Validated == False:
         print("GO BACK TO INDIA AND SCAM CALL SOMEONE")
         Validated = True
 
-time.sleep(2)
+input('Press ENTER to exit')
         
 
 
