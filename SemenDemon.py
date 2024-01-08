@@ -76,6 +76,29 @@ while Validated == False:
     elif Age > 59 and Gender == "no":
         print("Badass grandpa fuck yeahhhhhhhh")
 
+    time.sleep(2)
+
+Validated = False
+
+while Validated == False:
+    Skin = input ("What is your siin colour \n").lower()
+    if Skin == "yellow":
+        print("Your phone linging")
+        Validated = True
+    
+    elif Skin == "black":
+        print("STOP RESISTING OR I'LL SHOOT")
+        Validated = True
+    
+    elif Skin == "white"
+        print("You have privilage stop denying it")
+        Validated = True
+
+    elif Skin == "brown"
+        print("GO BACK TO INDIA AND SCAM CALL SOMEONE")
+        Validated = True
+
+time.sleep(2)
         
 
 
