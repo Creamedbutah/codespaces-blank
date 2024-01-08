@@ -90,11 +90,11 @@ while Validated == False:
         print("STOP RESISTING OR I'LL SHOOT")
         Validated = True
     
-    elif Skin == "white"
+    elif Skin == "white":
         print("You have privilage stop denying it")
         Validated = True
 
-    elif Skin == "brown"
+    elif Skin == "brown":
         print("GO BACK TO INDIA AND SCAM CALL SOMEONE")
         Validated = True
 
