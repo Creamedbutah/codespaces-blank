@@ -81,7 +81,7 @@ while Validated == False:
 Validated = False
 
 while Validated == False:
-    Skin = input ("What is your siin colour \n").lower()
+    Skin = input ("What is your skin colour \n").lower()
     if Skin == "yellow":
         print("Your phone linging")
         Validated = True
