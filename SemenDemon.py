@@ -67,6 +67,15 @@ while Validated == False:
     elif Age < 18:
         print("depressed ahh kid")
 
+    elif Age > 59:
+        print("Go back to your 9-5 you msierable scum")
+
+    elif Age > 59 and Gender == "yes":
+        print("Old granny bouta play sum bingo")
+    
+    elif Age > 59 and Gender == "no":
+        print("Badass grandpa fuck yeahhhhhhhh")
+
         
 
 
