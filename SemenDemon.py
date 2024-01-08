@@ -67,7 +67,7 @@ while Validated == False:
     elif Age < 18:
         print("depressed ahh kid")
 
-    elif Age > 59:
+    elif Age < 59:
         print("Go back to your 9-5 you msierable scum")
 
     elif Age > 59 and Gender == "yes":
