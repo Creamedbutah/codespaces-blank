@@ -98,7 +98,7 @@ while Validated == False:
         print("GO BACK TO INDIA AND SCAM CALL SOMEONE")
         Validated = True
 
-input('Press ENTER to exit')
+input('Thank you for your time and cooperation, Press ENTER to exit')
         
 
 
